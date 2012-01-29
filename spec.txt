@@ -1,0 +1,18 @@
+﻿Step 1:
+Get Kodak username/password.
+On clicking next, connect to Kodak and get UV key
+
+Step 2:
+Fetch albums from Kodak gallery. Display list of albums fetched.
+
+Step 3:
+Prompt the user if they want to upload all albums to Smugmug, or choose which albums to upload. If these user wants to choose,
+print the name of the album one by one, and the user can enter y/n.
+
+Step 4:
+Get Smugmug username/password
+Ask the user if they are ready to start uploading
+
+Step 5:
+Start creating albums/uploading pictures
+
