@@ -4,3 +4,5 @@ This is the source code for Keg2Smug, which is a command line utility to ease th
 
 This code is likely very out of date. Kodak constantly changes the layout of Kodak Gallery, and this code has not been maintained since 2009.
 If you would like to maintain or update this code, drop me a line and I'll give you commit access. Alternatively, fork the code and send me a pull request when your changes are ready.
+
+In order to build Keg2Smug, download Visual C# Express 2010 from http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express
