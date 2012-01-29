@@ -1,0 +1,6 @@
+1/29/2012
+
+This is the source code for Keg2Smug, which is a command line utility to ease the migration of full-resolution photos from Kodak Gallery to SmugMug.
+
+This code is likely very out of date. Kodak constantly changes the layout of Kodak Gallery, and this code has not been maintained since 2009.
+If you would like to maintain or update this code, drop me a line and I'll give you commit access. Alternatively, fork the code and send me a pull request when your changes are ready.
